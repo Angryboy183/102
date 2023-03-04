@@ -164,16 +164,14 @@ td{
 #imgBox{
     position: relative;bottom:10%;
 }
-.section-1{
+.section-01{
     background-color: #314f5f;position: relative;padding-top: 10%;
 }
 .section-2{
     background-color:blueviolet;position: relative;width: 100%;
     height: 50%;padding: 10%;
 }
-.section-1{
-    background-color: #314f5f;position: relative;padding-top: 10%;
-}
+
 .p{
     text-align: center;font-size: 3vh;
 }
